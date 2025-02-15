@@ -1,1 +1,1 @@
-# .github
+# Project in progress condition
